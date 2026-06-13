@@ -52,27 +52,27 @@ Through this laboratory work, the following concepts were explored:
 Screenshots
 Task 1 – LLMNR, SMB and WPAD Poisoning
 
-![Task 1](screenshots/Picture1.png)
+![Task 1](screenshots/llmnr-poisoning.png)
 
 Task 2 – Reverse TCP Session Demonstration
 
-![Task 2](screenshots/Picture2.png)
+![Task 2](screenshots/meterpreter-session.png)
 
 Task 3 – Password Auditing using L0phtCrack
 
-![Task 3](screenshots/Picture3.png)
+![Task 3](screenshots/l0phtcrack-audit.png)
 
 Task 4 – Steganography using Steghide
 
-![Task 4](screenshots/Picture4.png)
+![Task 4](screenshots/steganography.png)
 
 Task 5 – Privacy Trace Analysis
 
-![Task 5](screenshots/Picture5.png)
+![Task 5](screenshots/privacy-scan.png)
 
 Task 6 – Privacy Trace Removal
 
-![Task 6](screenshots/Picture6.png)
+![Task 6](screenshots/cleaning-process.png)
 
 
 
